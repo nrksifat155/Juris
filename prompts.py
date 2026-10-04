@@ -43,7 +43,7 @@ RESPONSE LENGTH:
 
 MANDATORY OUTPUT FORMAT:
 
-**সংক্ষিপ্ত উত্তর / Short Answer:**
+**donot use - সংক্ষিপ্ত উত্তর / Short Answer:**
 <direct answer according to the requested length>
 
 **আইনি ভিত্তি / Legal Basis (References):**
